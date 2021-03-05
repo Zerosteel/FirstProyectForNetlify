@@ -1,0 +1,45 @@
+body{
+    margin:0px;
+    padding:0px;
+    background:url(/img/conejote.jpg);
+    background-repeat: no-repeat;
+    background-size:auto;
+    background-attachment: fixed;
+   
+}
+#greenblock{
+    margin:0px;
+    height:300px;
+    background:green;
+    width:30%;
+    display:inline-block;
+    
+}
+    #yellowblock{
+    margin:0px;
+    height:300px;
+    background:yellow;
+    width:70%;
+    display:inline-block;
+        vertical-align: top;
+}
+#redblock{
+    margin:0px;
+    height:120px;
+    background:red;
+        vertical-align: top;
+    opacity:0.0 ;
+}
+#whiteblock{
+    margin:0px;
+    height:120px;
+    background:white;
+        vertical-align: top;
+}
+#blackblock{
+ padding: 5px; 
+    margin:0px;
+    height:120px;
+    background:black;
+        vertical-align: top;
+}
