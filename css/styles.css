@@ -3,8 +3,7 @@ body{
     padding:0px;
     background:url(/img/consultorio.jpeg);
     background-repeat: no-repeat;
-    background-cover: cover;
-    background-size:auto;
+    background-size:cover;
     background-attachment: fixed;
    
 }
